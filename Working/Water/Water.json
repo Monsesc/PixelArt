@@ -1,0 +1,142 @@
+{
+    "tileswide": 4,
+    "layers": [
+        {
+            "name": "Water",
+            "tiles": [
+                {
+                    "rot": 0,
+                    "y": 0,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 0,
+                    "x": 0
+                },
+                {
+                    "rot": 0,
+                    "y": 0,
+                    "tile": 2,
+                    "flipX": false,
+                    "index": 1,
+                    "x": 1
+                },
+                {
+                    "rot": 0,
+                    "y": 0,
+                    "tile": 1,
+                    "flipX": false,
+                    "index": 2,
+                    "x": 2
+                },
+                {
+                    "rot": 0,
+                    "y": 0,
+                    "tile": 3,
+                    "flipX": false,
+                    "index": 3,
+                    "x": 3
+                },
+                {
+                    "rot": 0,
+                    "y": 1,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 4,
+                    "x": 0
+                },
+                {
+                    "rot": 0,
+                    "y": 1,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 5,
+                    "x": 1
+                },
+                {
+                    "rot": 0,
+                    "y": 1,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 6,
+                    "x": 2
+                },
+                {
+                    "rot": 0,
+                    "y": 1,
+                    "tile": 4,
+                    "flipX": false,
+                    "index": 7,
+                    "x": 3
+                },
+                {
+                    "rot": 0,
+                    "y": 2,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 8,
+                    "x": 0
+                },
+                {
+                    "rot": 0,
+                    "y": 2,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 9,
+                    "x": 1
+                },
+                {
+                    "rot": 0,
+                    "y": 2,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 10,
+                    "x": 2
+                },
+                {
+                    "rot": 0,
+                    "y": 2,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 11,
+                    "x": 3
+                },
+                {
+                    "rot": 0,
+                    "y": 3,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 12,
+                    "x": 0
+                },
+                {
+                    "rot": 0,
+                    "y": 3,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 13,
+                    "x": 1
+                },
+                {
+                    "rot": 0,
+                    "y": 3,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 14,
+                    "x": 2
+                },
+                {
+                    "rot": 0,
+                    "y": 3,
+                    "tile": 0,
+                    "flipX": false,
+                    "index": 15,
+                    "x": 3
+                }
+            ],
+            "number": 0
+        }
+    ],
+    "tilewidth": 32,
+    "tileshigh": 4,
+    "tileheight": 32
+}
